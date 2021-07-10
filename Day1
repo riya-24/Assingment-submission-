@@ -1,0 +1,6 @@
+JavaScript assignment 1 - print "*" 5 times in vertically*/
+Str = "";
+For (let i=0; i<5; i= i+1){
+Str += "*";
+}
+Console.log(str);
